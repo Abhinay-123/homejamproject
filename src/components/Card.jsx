@@ -10,7 +10,7 @@ import React from "react";
           
 
          </div>
-         <div className="lable">
+         <div className="label">
            <p>{props.number}</p>
            <p>{props.text}</p>
          </div>
