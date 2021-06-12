@@ -1,31 +1,31 @@
 const Data = [
     {
-    img:"/image/img-6.png",
+    img:"/image/Img-6.png",
     position:"folk",
     name:"Benny Deyal",
     more:"More Info",
-    img2:"/image/vector3.png"
+    img2:"/image/Vector3.png"
     },
     {
-        img:"image/img-5.png",
+        img:"image/Img-5.png",
         position:"Bollywood",
         name:"Vijay Yesudas",
         more:"More Info",
-        img2:"/image/vector3.png"
+        img2:"/image/Vector3.png"
     },
     {
-        img:"image/img-4.png",
+        img:"image/Img-4.png",
         position:"folk",
         name:"Andrea Jeremiah",
         more:"More Info",
-        img2:"/image/vector3.png"
+        img2:"/image/Vector3.png"
     },
     {
-        img:"image/img-3.png",
+        img:"image/Img-3.png",
         position:"folk",
         name:"Shilpa Rao",
         more:"More Info",
-        img2:"/image/vector3.png"
+        img2:"/image/Vector3.png"
     }
 
 ];

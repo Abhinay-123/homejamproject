@@ -1,24 +1,24 @@
 const Contact = [
 {
-    icon: "public/image/Vector1.png",
+    icon: "/image/Vector1.png",
     number: "0",
     text: "Label"
 },
 {
-    icon: "public/image/Vector2.png",
-    icon2: "public/image/Vector.png",
+    icon: "/image/Vector2.png",
+    icon2: "/image/Vector.png",
     number: "0",
     text: "Label"
 },
 {
-    icon: "public/image/Vector2.png",
-    icon2: "public/image/Vector.png",
+    icon: "/image/Vector2.png",
+    icon2: "/image/Vector.png",
     number: "0",
     text: "Label"
 },
 {
-    icon: "public/image/Vector2.png",
-    icon2: "public/image/Vector.png",
+    icon: "/image/Vector2.png",
+    icon2: "/image/Vector.png",
     number: "0",
     text: "Label"
 }
